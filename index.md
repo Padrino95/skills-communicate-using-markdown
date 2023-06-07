@@ -15,3 +15,8 @@ he puesto titulos
 int num=0;
 system.out.println ("Hola mundo);
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
